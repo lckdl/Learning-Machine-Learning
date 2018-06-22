@@ -4,3 +4,9 @@
 - 包含 matplotlib 可视化
 - 包含 scikit-learn 同类算法准确率对比
 - 不断更新中
+
+- Beginner's learning process
+- Implementation of simple models & algorithms with Numpy (python3.6+)
+- Includes visualization by matplotlib
+- Includes accuracy comparison by scikit-learn
+- To be continued
